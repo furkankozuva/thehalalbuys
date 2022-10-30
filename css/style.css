@@ -450,6 +450,7 @@ header .navbar-default .navbar-header {
 	margin: 0 auto;
 	width: 100%;
 	padding: 92px 0px 75px 0px;
+	margin-bottom: 75px;
 }
 
 .find-box h1 {
@@ -669,6 +670,7 @@ header .navbar-default .navbar-header {
 	box-shadow: 0 3px 5px rgba(0, 0, 0, .03);
 	position: relative;
 	margin-top: -80px;
+	margin-bottom: -30px;
 }
 
 .cat-main-box .panel .panel-body {
