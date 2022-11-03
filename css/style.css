@@ -598,7 +598,7 @@ header .navbar-default .navbar-header {
   background: #051d36;
   text-align: center;
   padding-bottom: 30px;
-  min-height: 390px;
+  min-height: 320px;
   margin-bottom: 30px;
   position: relative;
   border-bottom: solid #007dea 3px;
@@ -3447,3 +3447,14 @@ html .ui-button.ui-state-disabled:active {
 /* .col-sm-4 {
 	float: left;
 } */
+
+.grocery-img {
+  width: 150px;
+  /* padding-top: 10px; */
+  opacity: 75%;
+}
+
+.clothing-img {
+  width: 150px;
+  opacity: 75%;
+}
