@@ -3456,3 +3456,26 @@ html .ui-button.ui-state-disabled:active {
   opacity: 75%;
   padding-top: 10px;
 }
+
+/* SMALL ICONS */
+
+/* .check-icon {
+  opacity: 75%;
+  margin-bottom: 0px;
+} */
+
+/* .exciting_box h4 {
+  padding-top: 50px;
+}
+
+.exciting_box p {
+  padding-bottom: 50px;
+} */
+
+.main-product {
+  padding-bottom: 100px;
+}
+
+.food-img {
+  padding: 50px;
+}
