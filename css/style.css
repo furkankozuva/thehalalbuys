@@ -3412,49 +3412,46 @@ html .ui-button.ui-state-disabled:active {
 
 /* CATEGORY IMAGES */
 
-/* .category-image {
-	width: 180px;
-	padding-top: 28px;
-}
-
-.grocery-image {
-	padding-top: 0px;
-}
-
-.air-purifier-image {
-	padding-top: 7px;
-}
-
-.basketball-image {
-	width: 170px;
-	padding-left: 10px;
-} */
-
-/* .col-md-4.col-sm-12.left-rs {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-}
-
-.col-md-4.col-sm-12.left-rs {
-	width: 800px;
-}
-
-.navbar-header {
-	flex: 300px;
-} */
-
-/* .col-sm-4 {
-	float: left;
-} */
-
 .grocery-img {
   width: 150px;
-  /* padding-top: 10px; */
   opacity: 75%;
 }
 
 .clothing-img {
   width: 150px;
   opacity: 75%;
+}
+
+.personalcare-img {
+  width: 150px;
+  opacity: 75%;
+}
+
+.baby-icon {
+  width: 150px;
+  opacity: 75%;
+}
+
+.toys-img {
+  width: 130px;
+  opacity: 75%;
+  padding-top: 10px;
+}
+
+.sports-img {
+  width: 100px;
+  opacity: 75%;
+  padding-top: 10px;
+}
+
+.books-img {
+  width: 140px;
+  opacity: 75%;
+  padding-top: 10px;
+}
+
+.homedesign-img {
+  width: 150px;
+  opacity: 75%;
+  padding-top: 10px;
 }
