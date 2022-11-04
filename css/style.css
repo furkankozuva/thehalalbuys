@@ -430,8 +430,8 @@ header .navbar-default .navbar-header {
 -------------------------------------------------------------*/
 
 .main-product {
-  background-color: #09284b;
-  background-image: url("../images/bg_main.png");
+  background-color: #06203c;
+  /* background-image: url("../images/bg_main.png"); */
   padding-bottom: 180px;
   background-position: center center;
 }
@@ -1033,10 +1033,11 @@ header .navbar-default .navbar-header {
 -------------------------------------------------------------*/
 
 .main-footer {
-  background-image: url("../images/footer_bg.png");
+  /* background-image: url("../images/footer_bg.png"); */
   padding: 55px 0px 0px 0px;
   background-size: cover;
   background-position: center center;
+  background-color: #06203c;
 }
 
 .footer-top {

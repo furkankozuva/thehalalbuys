@@ -1,6 +1,7 @@
 .pricing-container {
   margin: 4px auto;
 }
+
 .pricing-container.full-width {
   width: 100%;
   max-width: none;
