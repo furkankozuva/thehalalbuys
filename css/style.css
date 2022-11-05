@@ -3479,3 +3479,11 @@ html .ui-button.ui-state-disabled:active {
 .food-img {
   padding: 50px;
 }
+
+/* HIDE IMAGE IN MOBILE */
+
+@media (max-width: 629px) {
+  .food-img {
+    display: none;
+  }
+}
