@@ -1,11 +1,19 @@
 {
-  "name": "package.json",
+  "name": "the-halal-buys",
   "version": "1.0.0",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://furkankozuva.github.io/thehalalbuys/"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
 }

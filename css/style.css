@@ -496,7 +496,9 @@ header .navbar-default .navbar-header {
 }
 
 .form-sh
-  .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+  .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(
+    .input-group-btn
+  ) {
   width: 110%;
 }
 
@@ -3478,6 +3480,11 @@ html .ui-button.ui-state-disabled:active {
 
 .food-img {
   padding: 50px;
+  border-radius: 25%;
+}
+
+.supplier {
+  border-radius: 10%;
 }
 
 /* HIDE IMAGE IN MOBILE */
